@@ -64,7 +64,7 @@
     "@octokit/rest": "^19.0.3",
     "better-sqlite3": "^7.5.0",
     "azure-devops-node-api": "^11.0.1",
-    "dockerode": "^3.3.1",
+    "dockerode": "^4.0.5",
     "example-app": "link:../app",
     "express": "^4.17.1",
     "express-promise-router": "^4.1.0",
