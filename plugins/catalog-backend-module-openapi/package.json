@@ -33,7 +33,7 @@
     "start": "backstage-cli package start"
   },
   "dependencies": {
-    "@apidevtools/swagger-parser": "^10.1.0",
+    "@apidevtools/swagger-parser": "^10.1.1",
     "@backstage/backend-common": "^0.15.1-next.1",
     "@backstage/catalog-model": "^1.1.0",
     "@backstage/config": "^1.0.1",
