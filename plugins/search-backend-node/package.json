@@ -30,7 +30,7 @@
     "@backstage/plugin-permission-common": "^0.6.4-next.0",
     "@backstage/plugin-search-common": "^1.0.1-next.0",
     "@types/lunr": "^2.3.3",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "lunr": "^2.3.9",
     "ndjson": "^2.0.0",
     "node-abort-controller": "^3.0.1",
