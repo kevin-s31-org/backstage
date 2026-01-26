@@ -45,7 +45,7 @@
     "@backstage/plugin-catalog-node": "^1.0.2-next.0",
     "@backstage/types": "^1.0.0",
     "@octokit/graphql": "^5.0.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "msw": "^0.46.0",
     "node-fetch": "^2.6.7",
     "uuid": "^8.0.0",
