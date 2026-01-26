@@ -41,7 +41,7 @@
     "@backstage/types": "^1.0.0",
     "@types/ldapjs": "^2.2.0",
     "ldapjs": "^2.2.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "uuid": "^8.0.0",
     "winston": "^3.2.1"
   },
