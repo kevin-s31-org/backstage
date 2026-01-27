@@ -27,7 +27,7 @@
     "@backstage/config": "^1.0.1",
     "@backstage/plugin-search-backend-node": "^1.0.2-next.1",
     "@backstage/plugin-search-common": "^1.0.1-next.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "knex": "^2.0.0",
     "uuid": "^8.3.2"
   },
