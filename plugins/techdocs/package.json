@@ -55,7 +55,7 @@
     "event-source-polyfill": "1.0.25",
     "git-url-parse": "^13.0.0",
     "jss": "~10.8.2",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "react-helmet": "6.1.0",
     "react-use": "^17.2.4"
   },
