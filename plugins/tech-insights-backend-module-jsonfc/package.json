@@ -39,7 +39,7 @@
     "@backstage/errors": "^1.1.0",
     "@backstage/plugin-tech-insights-common": "^0.2.6",
     "@backstage/plugin-tech-insights-node": "^0.3.4-next.0",
-    "ajv": "^8.10.0",
+    "ajv": "^8.18.0",
     "json-rules-engine": "^6.1.2",
     "lodash": "^4.17.21",
     "luxon": "^3.0.0",
